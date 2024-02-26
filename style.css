@@ -1,0 +1,55 @@
+h1{
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+}
+    
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 500px;
+    text-align:center;
+    align-items: center;
+    margin-top: 200px;
+    border-radius: 50px;
+    height: 300%;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100;
+}
+
+
+.itzel{
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    
+}
+video{
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 50px;
+    height: auto;
+
+}
+.video{
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+div{
+    text-align: center;
+    align-items: center;
+}
